@@ -5,6 +5,12 @@ URDF contains joint transmissions for controllers and Gazebo referenced plugins 
 
 ![Darwin model in Gazebo](/darwin.png?raw=true "Darwin model in Gazebo")
 
+## Tutorial
+
+A tutorial describing how to use this package can be found at:
+
+http://www.generationrobots.com/en/content/83-carry-out-simulations-and-make-your-darwin-op-walk-with-gazebo-and-ros
+
 ## Install
 Just clone in your catkin workspace. You may need to install the hector_gazebo ROS package.
 
